@@ -1,0 +1,14 @@
+[project]
+name = "llm-speech-monitor"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "bs4>=0.0.2",
+    "openai>=1.74.0",
+    "pandas>=2.2.3",
+    "requests>=2.32.3",
+    "tqdm>=4.67.1",
+    "wikipedia-api>=0.8.1",
+]
